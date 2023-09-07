@@ -1,0 +1,198 @@
+.u-block-68bc-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-68bc-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-68bc-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/699g-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 774px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-family: "Noto Kufi Arabic";
+  margin: 88px 0 0 428px;
+}
+
+.u-section-1-1 .u-text-2 {
+  letter-spacing: 2px;
+  text-transform: none;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 7px 0 60px 683px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 228px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 483px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 8px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 263px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-1 {
+    background-position: 100% 50%;
+  }
+
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 83px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-1 {
+    background-position: 57.82% 50%;
+  }
+
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-top: 44px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    width: auto;
+    margin-left: 103px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1562px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Noto Kufi Arabic";
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Noto Kufi Arabic";
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 60px;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    font-size: 1rem;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1386px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Noto Kufi Arabic";
+  margin: 82px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  width: 680px;
+  font-family: "Noto Kufi Arabic";
+  margin: 20px auto 0;
+}
+
+.u-section-3 .u-video-1 {
+  height: 702px;
+  margin-top: 33px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 719px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-video-1 {
+    height: 624px;
+  }
+
+  .u-section-3 .embed-responsive-1 {
+    width: 231%;
+    left: -66%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 547px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .embed-responsive-1 {
+    width: 367%;
+    left: -133%;
+  }
+}
